@@ -1,4 +1,4 @@
-Instructions to run SAS-STEv1 Wizard
+Instructions to run SAS-STE-v1 Wizard
 
 1. Download and install all of the requirements and dependencies mentioned in "requirements.txt" file
 2. open/execute the "sas-ste1.bat" file to start the program.

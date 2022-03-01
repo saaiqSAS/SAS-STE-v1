@@ -15,6 +15,6 @@ Source code will be soon available. For now try out the beta wizard executables.
 ### Windows
 > SAS-STE-v1-Wizard-Windows v1.0 (https://github.com/saaiqSAS/SAS-STE-v1/releases/tag/SAS-STE-v1-Wizard-Windows-v1.0)
 
-## Linux
+### Linux
 > SAS-STE-v1-Wizard-Linux v1.0 (https://github.com/saaiqSAS/SAS-STE-v1/releases/tag/SAS-STE-v1-Wizard-Linux-v1.0)
 

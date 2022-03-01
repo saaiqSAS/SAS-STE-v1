@@ -1,4 +1,0 @@
-These are the requirements for SAS-STE
-
->Java JRE 17+
- (https://www.java.com/en/download)

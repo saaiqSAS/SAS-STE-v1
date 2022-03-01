@@ -1,0 +1,5 @@
+#/bin/bash
+
+cd programFiles
+java com.sas.ste.Main
+

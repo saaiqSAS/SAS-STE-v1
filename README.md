@@ -3,8 +3,6 @@
 
 SAS-STE-v1 is a text encryption algorithm designed by SAS.
 
-Source code will be soon available. For now try out the beta wizard executables. 
-
 -SAS-
 
 ## Requirements

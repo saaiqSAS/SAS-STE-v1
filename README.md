@@ -8,6 +8,7 @@ SAS-STE-v1 is a text encryption algorithm designed by SAS.
 ## Requirements
 > Java SE 17+ (https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
+
 ## Latest Releases
 
 ### Windows
@@ -18,3 +19,9 @@ SAS-STE-v1 is a text encryption algorithm designed by SAS.
 
 ## Beware!!!
 > When typing '\\' (backward slash) anywhere in this version of SAS-STE-v1, do type it twice. (eg: D:\\\\test\\\\file.txt)
+
+
+## Tutorials
+> SAS-STE-v1-WIZARD_USAGE_GUIDE (https://github.com/saaiqSAS/SAS-STE-v1/blob/SAS/Tutorials/SAS-STE-v1-WIZARD_USAGE_GUIDE.pdf)
+
+

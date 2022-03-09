@@ -12,10 +12,10 @@ SAS-STE-v1 is a text encryption algorithm designed by SAS.
 ## Latest Releases
 
 ### Windows
-> SAS-STE-v1-Wizard-Windows v1.0 (https://github.com/saaiqSAS/SAS-STE-v1/releases/tag/SAS-STE-v1-Wizard-Windows-v1.0)
+> SAS-STE-v1-Wizard-Windows v1.0.1 (https://github.com/saaiqSAS/SAS-STE-v1/releases/tag/SAS-STE-v1-Wizard-Windows-v1.0.1)
 
 ### Linux
-> SAS-STE-v1-Wizard-Linux v1.0 (https://github.com/saaiqSAS/SAS-STE-v1/releases/tag/SAS-STE-v1-Wizard-Linux-v1.0)
+> SAS-STE-v1-Wizard-Linux v1.0.1 (https://github.com/saaiqSAS/SAS-STE-v1/releases/tag/SAS-STE-v1-Wizard-Linux-v1.0.1)
 
 ## Beware!!!
 > When typing '\\' (backward slash) anywhere in this version of SAS-STE-v1, do type it twice. (eg: D:\\\\test\\\\file.txt)

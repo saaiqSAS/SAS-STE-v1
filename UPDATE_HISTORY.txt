@@ -1,6 +1,15 @@
 THESE ARE THE UPDATE HISTORY OF SAS-STE-v1
 ==========================================
 
+WHAT THE PLACE VALUES OF VERSION NUMBER MEAN:
+
+vX.Y.Z
+
+Z= increases after a bug fix
+Y= increses after adding a new feature
+X= increases after an encryption algorithm change
+
+===========================================
 
 SAS-STE-v1-Wizard:
 ------------------

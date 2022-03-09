@@ -1,0 +1,13 @@
+THESE ARE THE UPDATE HISTORY OF SAS-STE-v1
+==========================================
+
+
+SAS-STE-v1-Wizard:
+------------------
+
+v1.0.1 :
+  > Major bug fixes
+  
+v1.0 :
+  > First release
+  

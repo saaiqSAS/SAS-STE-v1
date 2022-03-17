@@ -1,2 +1,1 @@
-This directory contains the source code for SAS-STE-v1 Wizard.
-The source code is uploaded in inteliJ filesystem format to make it easier to edit the source code out of the box via inteliJ IDE.
+This directory contains the source code and its compiled files for SAS-STE-v1 Wizard.

@@ -14,6 +14,10 @@ X= increases after an encryption algorithm change
 SAS-STE-v1-Wizard:
 ------------------
 
+v1.0.2 :
+  > Major bug fixes
+  > Efficiency improved
+  
 v1.0.1 :
   > Major bug fixes
   

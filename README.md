@@ -19,6 +19,7 @@ SAS-STE-v1 is a text encryption algorithm designed by SAS.
 
 ## Beware!!!
 > When typing '<b>\\</b>' (backward slash) anywhere in this version of SAS-STE-v1, <b>DO TYPE IT TWICE</b>. (eg: D:<b>\\\\</b>test<b>\\\\</b>file.txt)
+> Back options can be used <b>MAXIMUM 2 TIMES</b> per run
 
 
 ## Tutorials

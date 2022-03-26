@@ -18,11 +18,11 @@ SAS-STE-v1 is a text encryption algorithm designed by SAS.
 > SAS-STE-v1-Wizard-Linux <b>v1.0.2</b> (https://github.com/saaiqSAS/SAS-STE-v1/releases/tag/SAS-STE-v1-Wizard-Linux-v1.1.3)
 
 ## Beware!!!
-- When typing '<b>\\</b>' (backward slash) anywhere in this version of SAS-STE-v1, <b>DO TYPE IT TWICE</b>. (eg: D:<b>\\\\</b>test<b>\\\\</b>file.txt)
-- <b>Back</b> options can be used <b>MAXIMUM 2 TIMES</b> per run
+> - When typing '<b>\\</b>' (backward slash) anywhere in this version of SAS-STE-v1, <b>DO TYPE IT TWICE</b>. (eg: D:<b>\\\\</b>test<b>\\\\</b>file.txt)
+> - <b>Back</b> options can be used <b>MAXIMUM 2 TIMES</b> per run
 
 
 ## Tutorials
-> SAS-STE-v1-WIZARD_USAGE_GUIDE (https://github.com/saaiqSAS/SAS-STE-v1/blob/SAS/Tutorials/SAS-STE-v1-WIZARD_USAGE_GUIDE.pdf)
+> - SAS-STE-v1-WIZARD_USAGE_GUIDE (https://github.com/saaiqSAS/SAS-STE-v1/blob/SAS/Tutorials/SAS-STE-v1-WIZARD_USAGE_GUIDE.pdf)
 
 

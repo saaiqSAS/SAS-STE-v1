@@ -14,6 +14,8 @@ X= increases after an encryption algorithm change
 SAS-STE-v1-Wizard:
 ------------------
 
+(!!!New versions available in the new SAS-STE repository (https://github.com/saaiqSAS/SAS-STE) !!!)
+
 v1.1.3 :
   > Multiple Text Input feature added
   > Back option added to all user input needed steps

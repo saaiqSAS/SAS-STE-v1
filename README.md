@@ -1,7 +1,9 @@
-# SAS-STE-v1
+# SAS-STE-v1 (Discontinued)
 (SAS-STE-v1) <b>S</b>ecure <b>T</b>ext <b>E</b>ncryption v1
 
 SAS-STE-v1 is a text encryption algorithm designed by SAS.
+
+!!! This repository is discontinued. To get the latest version of SAS-STE releases please go to the new SAS-STE repository (https://github.com/saaiqSAS/SAS-STE) !!!
 
 -SAS-
 
